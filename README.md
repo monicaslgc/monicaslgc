@@ -1,6 +1,6 @@
 # Hi, I'm Monica
 
-Technical Product Owner & Program Manager, 10 years across SaaS, PropTech, FinTech and e-commerce. I own technical and regulated products end to end, from discovery and requirements through engineering delivery and launch, and I'm hands-on enough to run the technical conversations myself (SQL, Kibana, API integrations, FSDs).
+Technical Product Owner & Program Manager — 10 years across SaaS, PropTech, FinTech and e-commerce. I take technical and regulated products from a rough idea through to launch, and I'm hands-on enough to sit in the technical conversations myself instead of just relaying them (SQL, Kibana, API integrations, FSDs).
 
 **Currently**
 - Project Manager & Product/Customer Success Manager at Zome, owning roadmap and delivery governance for a regulated technical product, including a regulatory integration PoC end to end
@@ -13,8 +13,9 @@ Technical Product Owner & Program Manager, 10 years across SaaS, PropTech, FinTe
 - AI/OCR product delivery and prompt engineering in a product context
 
 **A few samples of how I work**
-- [feature-spec-sample](https://github.com/monicaslgc/feature-spec-sample) — a sample PRD/FSD for a regulated fintech feature, closer to what I actually write day to day than any code is.
-- [agent-triage-kit](https://github.com/monicaslgc/agent-triage-kit) — a demo exploring how you'd design a trustworthy AI-agent pipeline: classification, investigation, and knowing when to hand off to a human.
-- [infra-health-report](https://github.com/monicaslgc/infra-health-report) — a smaller one on the ops side, turning raw resource metrics into a capacity report that flags what needs attention now versus what's just trending that way.
+
+[feature-spec-sample](https://github.com/monicaslgc/feature-spec-sample) is probably the most honest one — a sample PRD/FSD for a regulated fintech feature, written the way I'd actually scope and hand one off. Closer to my day job than any code is.
+
+I also like understanding systems by building small versions of them. [agent-triage-kit](https://github.com/monicaslgc/agent-triage-kit) explores how you'd design a trustworthy AI-agent pipeline: classify, investigate, know when to hand off to a human. [infra-health-report](https://github.com/monicaslgc/infra-health-report) is a smaller one on the ops side — turning raw resource metrics into a capacity report that tells you what needs attention now versus what's just trending that way.
 
 monicaslgc@gmail.com | [LinkedIn](https://linkedin.com/in/monicasofiacosta) | Braga, Portugal (Remote)
