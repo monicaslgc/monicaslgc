@@ -12,6 +12,6 @@ Technical Product Owner & Program Manager, 10 years across SaaS, PropTech, FinTe
 - Data-driven decisions (SQL, Kibana, BI reporting)
 - AI/OCR product delivery and prompt engineering in a product context
 
-I also like understanding systems by building small versions of them. [agent-triage-kit](https://github.com/monicaslgc/agent-triage-kit) is a demo I put together exploring how you'd design a trustworthy AI-agent pipeline: classification, investigation, and knowing when to hand off to a human.
+I also like understanding systems by building small versions of them. [agent-triage-kit](https://github.com/monicaslgc/agent-triage-kit) explores how you'd design a trustworthy AI-agent pipeline: classification, investigation, and knowing when to hand off to a human. [infra-health-report](https://github.com/monicaslgc/infra-health-report) is a smaller one on the ops side, turning raw resource metrics into a capacity report that flags what needs attention now versus what's just trending that way.
 
 monicaslgc@gmail.com | [LinkedIn](https://linkedin.com/in/monicasofiacosta) | Braga, Portugal (Remote)
