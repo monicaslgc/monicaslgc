@@ -1,6 +1,6 @@
 # Hi, I'm Monica
 
-Technical Product Owner & Program Manager — 10 years across SaaS, PropTech, FinTech and e-commerce. I take technical and regulated products from a rough idea through to launch, and I'm hands-on enough to sit in the technical conversations myself instead of just relaying them (SQL, Kibana, API integrations, FSDs).
+Technical Product Owner & Program Manager. I take regulated products (SaaS, PropTech, FinTech) from a rough idea to launch, and I'm now applying that to AI-assisted workflows. I'm technical enough to sit in the engineering conversation myself (SQL, Kibana, API integrations, FSDs).
 
 **Currently**
 - Project Manager & Product/Customer Success Manager at Zome, owning roadmap and delivery governance for a regulated technical product, including a regulatory integration PoC end to end
@@ -11,6 +11,11 @@ Technical Product Owner & Program Manager — 10 years across SaaS, PropTech, Fi
 - Cross-functional and vendor coordination (Jira, Confluence, Redmine)
 - Data-driven decisions (SQL, Kibana, BI reporting)
 - AI/OCR product delivery and prompt engineering in a product context
+
+**Start here**
+- [feature-spec-sample](https://github.com/monicaslgc/feature-spec-sample): how I scope and hand off a regulated feature
+- [project-velvet](https://github.com/monicaslgc/project-velvet): AI-assisted order operations with policy checks, human approval and release gating
+- [agent-triage-kit](https://github.com/monicaslgc/agent-triage-kit): a multi-agent triage pipeline that knows when to hand off to a human
 
 **A few samples of how I work**
 
