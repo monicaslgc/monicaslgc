@@ -23,6 +23,4 @@ Technical Product Owner & Program Manager. I take regulated products (SaaS, Prop
 - [infra-health-report](https://github.com/monicaslgc/infra-health-report): turns resource metrics into a capacity report
 - [Gridfinity-Cutout-Generator](https://github.com/monicaslgc/Gridfinity-Cutout-Generator): describe or photograph an object, get a 3D-printable container sized to fit
 
-All code projects use synthetic data and say plainly what is and is not verified.
-
 monicaslgc@gmail.com | [LinkedIn](https://linkedin.com/in/monicasofiacosta) | Braga, Portugal (Remote)
