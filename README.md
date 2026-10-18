@@ -13,14 +13,16 @@ Technical Product Owner & Program Manager. I take regulated products (SaaS, Prop
 - AI/OCR product delivery and prompt engineering in a product context
 
 **Start here**
-- [feature-spec-sample](https://github.com/monicaslgc/feature-spec-sample): how I scope and hand off a regulated feature
+- [support-copilot](https://github.com/monicaslgc/support-copilot): AI-assisted support where the AI drafts and a person approves every reply; 549 tests, synthetic data
 - [project-velvet](https://github.com/monicaslgc/project-velvet): AI-assisted order operations with policy checks, human approval and release gating
+- [feature-spec-sample](https://github.com/monicaslgc/feature-spec-sample): how I scope and hand off a regulated feature (sample PRD/FSD)
+
+**More**
 - [agent-triage-kit](https://github.com/monicaslgc/agent-triage-kit): a multi-agent triage pipeline that knows when to hand off to a human
+- [ai-skills](https://github.com/monicaslgc/ai-skills): single-purpose SKILL.md skills and kits for smart homes, self-hosted AI, project management, support and content
+- [infra-health-report](https://github.com/monicaslgc/infra-health-report): turns resource metrics into a capacity report
+- [Gridfinity-Cutout-Generator](https://github.com/monicaslgc/Gridfinity-Cutout-Generator): describe or photograph an object, get a 3D-printable container sized to fit
 
-**A few samples of how I work**
-
-[feature-spec-sample](https://github.com/monicaslgc/feature-spec-sample) is probably the most honest one — a sample PRD/FSD for a regulated fintech feature, written the way I'd actually scope and hand one off. Closer to my day job than any code is.
-
-I also like understanding systems by building small versions of them. [agent-triage-kit](https://github.com/monicaslgc/agent-triage-kit) explores how you'd design a trustworthy AI-agent pipeline: classify, investigate, know when to hand off to a human. [infra-health-report](https://github.com/monicaslgc/infra-health-report) is a smaller one on the ops side — turning raw resource metrics into a capacity report that tells you what needs attention now versus what's just trending that way.
+All code projects use synthetic data and say plainly what is and is not verified.
 
 monicaslgc@gmail.com | [LinkedIn](https://linkedin.com/in/monicasofiacosta) | Braga, Portugal (Remote)
